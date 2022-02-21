@@ -1,0 +1,10 @@
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\bin\Debug\ValidPalindrome.exe.config
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\bin\Debug\ValidPalindrome.exe
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\bin\Debug\ValidPalindrome.pdb
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.Form1.resources
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.Properties.Resources.resources
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.csproj.GenerateResource.cache
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.csproj.CoreCompileInputs.cache
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.exe
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.pdb
+C:\ProjectSchool\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.csproj.AssemblyReference.cache
